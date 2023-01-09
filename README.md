@@ -16,7 +16,7 @@ But I also work on the R package of JDemetra+ :
 
 ## JDemetra+ documentation 📖
 
-With Anna Smyk, we also write the [documentation](https://jdemetra-new-documentation.netlify.app/) for the JDemetra+ software. You can follow us on our [blog](https://jdemetra-universe-blog.netlify.app/).
+With Anna Smyk, we also write the [documentation](https://jdemetra-new-documentation.netlify.app/) of the JDemetra+ software. You can follow us on our [blog](https://jdemetra-universe-blog.netlify.app/).
 
 ## Contacts ☎️
 
