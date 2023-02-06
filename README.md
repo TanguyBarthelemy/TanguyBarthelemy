@@ -6,7 +6,7 @@ My name is Tanguy BARTHELEMY. I am a time series methodologist at [Insee](https:
 
 I work mainly in R. My role is to maintain, improve and document the following packages:
 
-- [JDCruncher](https://github.com/InseeFr/JDCruncheR): Easy access to the JDemetra+ cruncher (JWSACruncher) from R
+- [JDCruncheR](https://github.com/InseeFr/JDCruncheR): Easy access to the JDemetra+ cruncher (JWSACruncher) from R
 - [rjdworkspace](https://github.com/InseeFrLab/rjdworkspace): Manipulation of JDemetra+ workspace structure with R
 
 But I also work on the R package of JDemetra+ :
