@@ -14,12 +14,19 @@ But I also work on the R package of JDemetra+ :
 - Version 2 : [RJDemetra](https://github.com/jdemetra/rjdemetra) on [CRAN](https://cran.r-project.org/web/packages/RJDemetra/index.html)
 - And the new gallery in version 3: [rjdemetra3](https://github.com/palatej/rjdemetra3), [rjd3toolkit](https://github.com/palatej/rjd3toolkit), [rjd3modelling](https://github.com/palatej/rjd3modelling), [rjd3sa](https://github.com/palatej/rjd3sa), [rjd3arima](https://github.com/palatej/rjd3arima), [rjd3x13](https://github.com/palatej/rjd3x13), [rjd3tramoseats](https://github.com/palatej/rjd3tramoseats), [rjd3sts](https://github.com/palatej/rjd3sts), [rjd3stl](https://github.com/palatej/rjd3stl), [rjd3highfreq](https://github.com/palatej/rjd3highfreq), [rjd3bench](https://github.com/palatej/rjd3bench) and [ggdemetra3](https://github.com/AQLT/ggdemetra3) (developped by [Alain Quartier-La-Tente](https://github.com/AQLT))
 
-## JDemetra+ documentation 📖
+## Ressources
+
+### JDemetra+ documentation 📖
 
 With Anna Smyk, we also write the [documentation](https://jdemetra-new-documentation.netlify.app/) of the JDemetra+ software. You can follow us on our [blog](https://jdemetra-universe-blog.netlify.app/).
+
+### JD Tutorials ▶️
+
+In parallel with the documentation, I develop the [JD Tutorials](https://github.com/TanguyBarthelemy/JD_Tutorials) project which offers tutorials to discover JDemetra+, the GUI and the R packages. These tutorials are in the form of sheets or videos on our 🎥 [youtube channel (@TSwithJDemetraandR)](https://www.youtube.com/@TSwithJDemetraandR).
 
 ## Contacts ☎️
 
 📧 tanguy.barthelemy@insee.fr
 
 or directly on a Github repository via a pull request!
+
