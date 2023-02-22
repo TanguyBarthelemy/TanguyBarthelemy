@@ -28,5 +28,5 @@ In parallel with the documentation, I develop the [JD Tutorials](https://github.
 
 📧 tanguy.barthelemy@insee.fr
 
-or directly on a Github repository via a pull request!
+or directly on a Github repository via a pull request or an issue!
 
