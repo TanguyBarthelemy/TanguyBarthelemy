@@ -12,7 +12,7 @@ I work mainly in R. My role is to maintain, improve and document the following p
 But I also work on the R package of JDemetra+ :
 
 - Version 2 : [RJDemetra](https://github.com/jdemetra/rjdemetra) on [CRAN](https://cran.r-project.org/web/packages/RJDemetra/index.html)
-- And the new gallery in version 3: [rjdemetra3](https://github.com/rjdemetra/rjdemetra3), [rjd3toolkit](https://github.com/rjdemetra/rjd3toolkit), [rjd3x13](https://github.com/rjdemetra/rjd3x13), [rjd3tramoseats](https://github.com/rjdemetra/rjd3tramoseats), [rjd3sts](https://github.com/palatej/rjd3sts), [rjd3stl](https://github.com/palatej/rjd3stl), [rjd3highfreq](https://github.com/palatej/rjd3highfreq), [rjd3bench](https://github.com/palatej/rjd3bench), [rjd3filters](https://github.com/palatej/rjd3filters) and [ggdemetra3](https://github.com/AQLT/ggdemetra3) (developped by [Alain Quartier-La-Tente](https://github.com/AQLT))
+- And the new gallery in version 3: [rjdemetra3](https://github.com/rjdemetra/rjdemetra3), [rjd3toolkit](https://github.com/rjdemetra/rjd3toolkit), [rjd3x13](https://github.com/rjdemetra/rjd3x13), [rjd3tramoseats](https://github.com/rjdemetra/rjd3tramoseats), [rjd3sts](https://github.com/rjdemetra/rjd3sts), [rjd3stl](https://github.com/rjdemetra/rjd3stl), [rjd3highfreq](https://github.com/rjdemetra/rjd3highfreq), [rjd3bench](https://github.com/rjdemetra/rjd3bench), [rjd3filters](https://github.com/rjdemetra/rjd3filters) and [ggdemetra3](https://github.com/AQLT/ggdemetra3) (developped by [Alain Quartier-La-Tente](https://github.com/AQLT))
 
 ## Ressources
 
