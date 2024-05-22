@@ -7,12 +7,12 @@ My name is Tanguy BARTHELEMY. I am a time series methodologist at [Insee](https:
 I work mainly in R. My role is to maintain, improve and document the following packages:
 
 - [JDCruncheR](https://github.com/InseeFr/JDCruncheR): Easy access to the JDemetra+ cruncher (JWSACruncher) from R
-- [rjdworkspace](https://github.com/InseeFrLab/rjdworkspace): Manipulation of JDemetra+ workspace structure with R
+- [rjdworkspace](https://github.com/InseeFrLab/rjdworkspace) on [CRAN](https://cran.r-project.org/web/packages/rjdworkspace/index.html): Manipulation of JDemetra+ workspace structure with R
 
 But I also work on the R package of JDemetra+ :
 
-- Version 2 : [RJDemetra](https://github.com/jdemetra/rjdemetra) on [CRAN](https://cran.r-project.org/web/packages/RJDemetra/index.html)
-- And the new gallery in version 3: [rjd3toolkit](https://github.com/rjdemetra/rjd3toolkit), [rjdemetra3](https://github.com/rjdemetra/rjdemetra3), [rjd3providers](https://github.com/rjdemetra/rjd3providers), [rjd3x13](https://github.com/rjdemetra/rjd3x13), [rjd3tramoseats](https://github.com/rjdemetra/rjd3tramoseats), [rjd3sts](https://github.com/rjdemetra/rjd3sts), [rjd3stl](https://github.com/rjdemetra/rjd3stl), [rjd3highfreq](https://github.com/rjdemetra/rjd3highfreq), [rjd3x11plus](https://github.com/rjdemetra/rjd3x11plus), [rjd3bench](https://github.com/rjdemetra/rjd3bench), [rjd3filters](https://github.com/rjdemetra/rjd3filters) and [ggdemetra3](https://github.com/AQLT/ggdemetra3) (developped by [Alain Quartier-La-Tente](https://github.com/AQLT))
+- Version 2 : [RJDemetra](https://github.com/rjdverse/rjdemetra) on [CRAN](https://cran.r-project.org/web/packages/RJDemetra/index.html)
+- And the new gallery in version 3: [rjd3toolkit](https://github.com/rjdverse/rjd3toolkit), [rjd3workspace](https://github.com/rjdverse/rjd3workspace), [rjd3providers](https://github.com/rjdverse/rjd3providers), [rjd3x13](https://github.com/rjdverse/rjd3x13), [rjd3tramoseats](https://github.com/rjdverse/rjd3tramoseats), [rjd3sts](https://github.com/rjdverse/rjd3sts), [rjd3stl](https://github.com/rjdverse/rjd3stl), [rjd3highfreq](https://github.com/rjdverse/rjd3highfreq), [rjd3x11plus](https://github.com/rjdverse/rjd3x11plus), [rjd3bench](https://github.com/rjdverse/rjd3bench), [rjd3filters](https://github.com/rjdverse/rjd3filters), [rjd3revisions](https://github.com/rjdverse/rjd3revisions), [rjd3nowcasting](https://github.com/rjdverse/rjd3nowcasting) and [ggdemetra3](https://github.com/AQLT/ggdemetra3) (developped by [Alain Quartier-La-Tente](https://github.com/AQLT))
 
 ## Ressources
 
@@ -29,4 +29,3 @@ In parallel with the documentation, I develop the [JD Tutorials](https://github.
 📧 tanguy.barthelemy@insee.fr
 
 or directly on a Github repository via a pull request or an issue!
-
