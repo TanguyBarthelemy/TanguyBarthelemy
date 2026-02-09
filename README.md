@@ -8,6 +8,7 @@ I work mainly with R. My role is to maintain, improve and document the packages.
 In particular, I work on packages linked to JDemetra+ :
 
 - in version 3 (
+[rjd3jars](https://github.com/rjdverse/rjd3jars) [![CRAN status](https://www.r-pkg.org/badges/version/rjd3jars)](https://CRAN.R-project.org/package=rjd3jars),
 [rjd3toolkit](https://github.com/rjdverse/rjd3toolkit) [![CRAN status](https://www.r-pkg.org/badges/version/rjd3toolkit)](https://CRAN.R-project.org/package=rjd3toolkit),
 [rjd3x13](https://github.com/rjdverse/rjd3x13) [![CRANstatus](https://www.r-pkg.org/badges/version/rjd3x13)](https://cran.r-project.org/package=rjd3x13),
 [rjd3tramoseats](https://github.com/rjdverse/rjd3tramoseats) [![CRANstatus](https://www.r-pkg.org/badges/version/rjd3tramoseats)](https://cran.r-project.org/package=rjd3tramoseats),
